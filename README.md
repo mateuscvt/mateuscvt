@@ -1,5 +1,4 @@
 # 🧑🏽‍💻 Mateus Cavalcante
-## Bem vindo ao meu perfil GitHub 👋🏽
 Me chamo Mateus Cavalcante, tenho 25 anos e sou de São Paulo. Atualmente estou concursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi, estou estudando a cada dia e buscando uma vaga na área da Tecnologia.
 
 ## 🤖 Ferramentas e Tecnologias
